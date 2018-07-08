@@ -1,0 +1,13 @@
+C:\Users\94274\source\repos\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\94274\source\repos\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\94274\source\repos\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.csprojResolveAssemblyReference.cache
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.Cache
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.FormMain.resources
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.FormText.resources
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.FormInput.resources
+C:\Users\94274\source\repos\FileManagement\FileManagement\obj\Debug\FileManagement.FormProfile.resources
